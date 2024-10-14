@@ -10,3 +10,5 @@ langchain-google-genai
 langchain-openai
 langchain-groq
 python-dotenv
+langchain-together
+
