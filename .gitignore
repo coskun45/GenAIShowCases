@@ -1,0 +1,6 @@
+.env
+.devcontainer/
+/config
+requirements.txt
+credentials.py
+config.py
