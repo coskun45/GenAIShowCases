@@ -28,7 +28,7 @@ st.session_state["last_selected_model"] = selected_model
 
 # Model'e göre API setup
 if selected_model == "OpenAI GPT-3.5":
-    client = llms.get_azure_openAI()
+    client = llms.get_openAI()
 
 elif selected_model == "Gemini 1.5 Pro":
     client = llms.google_gemini()
